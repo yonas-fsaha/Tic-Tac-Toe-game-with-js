@@ -30,3 +30,4 @@ Contributions to the Tic-Tac-Toe game project are welcome. If you find any issue
 5. Submit a pull request
 
 ## Create a custom `README.md`
+We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`]

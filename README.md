@@ -29,4 +29,3 @@ Contributions to the Tic-Tac-Toe game project are welcome. If you find any issue
 4. Push your changes to your forked repository.
 5. Submit a pull request
 
-## Create a custom `README.md`

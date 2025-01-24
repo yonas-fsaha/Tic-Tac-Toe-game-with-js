@@ -20,7 +20,6 @@ git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 
 ## Contributing
 
-Contributions to the Tic-Tac-Toe game project are welcome. If you find any issues or have suggestions for improvements, 
-
+Contributions to the Tic-Tac-Toe game project are welcome.
   
 

@@ -18,6 +18,3 @@ git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 5. The game will automatically detect when a player has won or when there is a draw and it tells u who is the winner.
 6. To start a new game, click the "New Game" button.
 
-## Contributing
-
-

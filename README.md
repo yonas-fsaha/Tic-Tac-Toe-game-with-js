@@ -16,4 +16,4 @@ git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 3. Players can take turns by clicking on empty spaces in the grid.
 4. one player need to play with 'X' sign and the other one is 'O' sign.
 5. The game will automatically detect when a player has won or when there is a draw and it tells u who is the winner.
-6. To start a new game, 
+6. To start a new 

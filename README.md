@@ -14,4 +14,4 @@ git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 1. Open the `index.html` file in your preferred web browser.
 2. The Tic-Tac-Toe game will be displayed on the screen, showing a 3x3 grid.
 3. Players can take turns by clicking on empty spaces in the grid.
-4. one player need to play with 'X' sign and the other one is 'O' sign.
+4. one player need to play with 'X' sign and the other one is 'O' 

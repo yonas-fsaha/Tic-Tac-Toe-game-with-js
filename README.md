@@ -12,4 +12,4 @@ git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 ## Usage of the project
 
 1. Open the `index.html` file in your preferred web browser.
-2. The Tic-Tac-Toe game will be displayed on the screen, showing a 3x3 
+2. The Tic-Tac-Toe game will be displayed on the screen, showing 

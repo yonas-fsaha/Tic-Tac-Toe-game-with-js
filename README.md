@@ -10,6 +10,5 @@ To use the Tic-Tac-Toe game project, simply clone this repository to your local 
 git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
 
 ## Usage of the project
-
-1. Open the `index.html` file in your preferred web browser.
+browser.
 2. The Tic-Tac-Toe game will be displayed on the

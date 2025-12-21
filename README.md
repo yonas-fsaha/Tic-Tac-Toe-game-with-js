@@ -7,8 +7,6 @@ This is a Tic-Tac-Toe game project implemented using HTML, CSS, and JavaScript. 
 
 To use the Tic-Tac-Toe game project, simply clone this repository to your local machine or download the project files as a ZIP archive.
 
-git clone https://github.com/yonas-fsaha/Tic-Tac-Toe-game-with-js.git
-
 ## Usage of the project
 browser.
 2. The Tic-Tac-Toe game will be displayed on the

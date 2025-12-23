@@ -9,4 +9,4 @@ To use the Tic-Tac-Toe game project, simply clone this repository to your local 
 
 ## Usage of the project
 browser.
-2. The Tic-Tac-Toe game will be displayed 
+2. The Tic-Tac-Toe game will be displa

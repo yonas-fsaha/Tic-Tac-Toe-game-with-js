@@ -6,5 +6,3 @@ This is a Tic-Tac-Toe game project implemented using HTML, CSS, and JavaScript. 
 ## Installation
 
 To use the Tic-Tac-Toe game project, simply clone this repository to your local machine or download the project files as a ZIP archive.
-
-## 

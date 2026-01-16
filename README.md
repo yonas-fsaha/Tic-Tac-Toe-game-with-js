@@ -5,4 +5,4 @@ This is a Tic-Tac-Toe game project implemented using HTML, CSS, and JavaScript. 
 
 ## Installation
 
-To use the Tic-Tac-Toe game projec
+To use the Tic-Tac-Toe game 

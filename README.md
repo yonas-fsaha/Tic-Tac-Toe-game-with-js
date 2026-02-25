@@ -1,3 +1,3 @@
 # Tic-Tac-Toe Game with JavaScript
 
-This is a Tic-
+This is a Tic

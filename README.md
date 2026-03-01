@@ -1,1 +1,1 @@
-# Tic-Tac-Toe Game with JavaScrip
+# Tic-Tac-Toe Game with JavaScri
